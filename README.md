@@ -11,10 +11,6 @@ Welcome to my GitHub profile! I am passionate about cybersecurity and continuous
 - **University of Mumbai**  
   Bachelor of Engineering – Computer Science | *July 2017*
 
-## Skills & Tools
-
-![AWS](https://www.flaticon.com/free-icon/social_14777106?term=aws&page=1&position=2&origin=search&related_id=14777106)
-
 ## Certifications
 - **CompTIA Security+ (SY0-701)** – *October 2024*
 
