@@ -1,7 +1,3 @@
-# Vaibhavi Tilak
-
-Cybersecurity professional with 4+ years of experience in application security, risk management, and threat analysis across finance and tech sectors. CompTIA Security+ certified, with a strong foundation in SIEM, IAM, AWS, API protection, DLP, and secure systems on both Windows and Linux. .
-
 ## About Me
 Welcome to my GitHub profile! I am passionate about cybersecurity and continuously improving system security, compliance, and threat resilience.
 
